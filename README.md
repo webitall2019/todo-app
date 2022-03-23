@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-The App link - https://my-todo-app-2022.netlify.app/
 
-=======
-<<<<<<< HEAD
->>>>>>> 19a6941bd30be818a30a0676ec0e79a73c1036c8
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
