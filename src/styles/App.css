@@ -1,0 +1,12 @@
+.checked{
+    position: relative;
+}
+.checked::after {
+    content: '';
+    position: absolute;
+    left: -10%; 
+    top: 50%;
+    width: 120%;
+    height: 1px;
+    background-color: red;
+}
