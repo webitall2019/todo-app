@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 The App link - https://my-todo-app-2022.netlify.app/
 
+=======
+<<<<<<< HEAD
+>>>>>>> 19a6941bd30be818a30a0676ec0e79a73c1036c8
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# todo-app
+>>>>>>> a762ffd7ca3dd913f74cc7914e07d4e5aa5ac72b
